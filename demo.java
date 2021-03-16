@@ -5,3 +5,14 @@ class demo
   system.out.print("hello world");
  }
 }
+
+
+
+
+class Bank
+{
+  void Deposite()
+  {
+   bal=bal+amt
+ }
+}
